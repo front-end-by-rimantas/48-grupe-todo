@@ -1,0 +1,9 @@
+.main-header {
+    background-color: #f8f6fc;
+    padding: 1rem 2rem;
+}
+.main-header .logo {
+    display: block;
+    height: 2rem;
+    background-color: red;
+}

@@ -11,3 +11,7 @@
 @import '../components/header.css';
 
 /* CUSTOM CSS BELOW THIS COMMENT LINE */
+
+body {
+    background-color: #eeeef9;
+}
