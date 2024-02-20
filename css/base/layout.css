@@ -1,5 +1,7 @@
 body {
     display: grid;
     grid-template-columns: 1fr 20rem;
-    gap: 2rem;
+    grid-template-rows: 4rem 1fr;
+    align-items: start;
+    align-content: start;
 }

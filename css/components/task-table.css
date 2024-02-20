@@ -1,0 +1,16 @@
+.task-table {
+    display: grid;
+    overflow: auto;
+}
+.task-table .task-content {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+.task-table .table-column {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 20rem;
+    border: 1px solid red;
+}

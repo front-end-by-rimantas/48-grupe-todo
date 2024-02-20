@@ -1,4 +1,6 @@
 .main-header {
+    display: flex;
+    grid-column: span 2;
     background-color: #f8f6fc;
     padding: 1rem 2rem;
 }
