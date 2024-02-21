@@ -1,8 +1,14 @@
 .task-table {
     display: grid;
     overflow: auto;
+    align-content: start;
 }
-.task-table .task-content {
+.task-table .table-msg {
+    padding: 2rem;
+    font-size: 1.5rem;
+    border: 0.2rem dotted red;
+}
+.task-table .table-content {
     display: flex;
     gap: 2rem;
     justify-content: center;

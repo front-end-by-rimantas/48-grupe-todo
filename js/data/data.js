@@ -1,23 +1,28 @@
 const data = {
     tasks: [
         {
-            title: 'Reikia pasidaryti arbatos',
-            description: 'Reikia jog butu slapia ir silta',
+            title: 'Išsivalyti dantis',
+            description: 'Nes reikia',
             status: 'done',
         },
         {
             title: 'Reikia pasidaryti arbatos',
             description: 'Reikia jog butu slapia ir silta',
+            status: 'done',
+        },
+        {
+            title: 'Pasimokyti apie DOM',
+            description: 'Vis dar ir dar daug 👀👍',
             status: 'in-progress',
         },
         {
-            title: 'Reikia pasidaryti arbatos',
-            description: 'Reikia jog butu slapia ir silta',
+            title: 'Paklausti apie "ryto klausimus"',
+            description: 'Gal turės ką paklausti? 🤔',
             status: 'in-progress',
         },
         {
-            title: 'Reikia pasidaryti arbatos',
-            description: 'Reikia jog butu slapia ir silta',
+            title: 'Git',
+            description: 'git commit add, git commit -m, git push',
             status: 'todo',
         },
     ],
